@@ -23,7 +23,6 @@ def modeOfList(randomlist):
         
 
 
-#test
 # print(randomList())
 # print(medianOfList(randomList()))
 print(modeOfList(randomList()))
